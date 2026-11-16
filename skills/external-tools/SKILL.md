@@ -1,4 +1,5 @@
 ---
+name: external-tools
 description: Documents the CLIs available in each environment and when to prefer them over their MCP equivalents. Use when you need to deploy, check deployment status, manage a project, or manage environment variables, or when you are about to call an MCP tool that a CLI also covers.
 ---
 
