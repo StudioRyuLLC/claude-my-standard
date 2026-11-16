@@ -6,7 +6,7 @@
   "plugins": [
     {
       "name": "claude-my-standards",
-      "source": ".",
+      "source": "./",
       "description": "My personal coding standards and conventions for writing consistent, maintainable code."
     }
   ]
