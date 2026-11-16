@@ -1,0 +1,13 @@
+{
+  "name": "claude-my-standards-marketplace",
+  "owner": {
+    "name": "StudioRyuLLC"
+  },
+  "plugins": [
+    {
+      "name": "claude-my-standards",
+      "source": ".",
+      "description": "My personal coding standards and conventions for writing consistent, maintainable code."
+    }
+  ]
+}
